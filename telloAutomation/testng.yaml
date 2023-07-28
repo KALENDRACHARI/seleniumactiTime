@@ -1,0 +1,8 @@
+name: Suite
+configFailurePolicy: skip
+tests:
+  - name: Test
+  classes:
+    - src.actitime.textscript.NewTest2
+    - src.actitime.textscript.NewTest1
+
